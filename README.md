@@ -1,6 +1,7 @@
-# Basic chat application with real time communication.
-# Created with Spring Boot, Vue.js, RabbitMQ and WebSockets.
-#
-# It allows to send private messages to other users and create group chats.
-#
-# Work in progress...
+# Basic Messenger (work in progress)
+Basic chat web application with real time text communication.<br />
+Created with use of Spring Boot, Vue.js, RabbitMQ and WebSockets.<br />
+It allows to send private messages to other users and create group chats.
+
+The app is in early development stage right now.<br />
+Once I have a working build I will make it available via Heroku and post a link here.
